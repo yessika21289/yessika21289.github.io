@@ -299,7 +299,7 @@ img.img-circle.social-img {
 	padding: 20px 25px;
 }
 
-#tf-services .service:hover>i.fa{
+#tf-services .service>i.fa:hover{
 	background: #FCAC45;
 	color: #ffffff;
 }
@@ -569,10 +569,6 @@ nav#footer p{
 	background: #FCAC45;
 	border-color: #FCAC45;
 	color: #ffffff;
-}
-
-.owl-item {
-	width: 165px;
 }
 
 .fa-facebook-square:hover,.fa-linkedin-square:hover,.fa-twitter-square:hover,.fa-google-plus-official:hover{

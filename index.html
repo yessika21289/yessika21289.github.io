@@ -38,6 +38,7 @@
     ================================================== -->
     <link rel="stylesheet" type="text/css" href="css/style.css">
     <link rel="stylesheet" type="text/css" href="css/responsive.css">
+    <link rel="stylesheet" type="text/css" href="css/animate.css">
 
     <link href='http://fonts.googleapis.com/css?family=Lato:100,300,400,700,900,100italic,300italic,400italic,700italic,900italic'
           rel='stylesheet' type='text/css'>
@@ -192,7 +193,7 @@
         </div>
         <div class="space"></div>
         <div class="row">
-            <div class="col-md-3 col-sm-6 service">
+            <div class="col-md-3 col-sm-6 service wow bounceInUp animated" data-wow-delay="0.2s">
                 <i class="fa fa-desktop" aria-hidden="true"></i>
                 <h4><strong>Web design and developing</strong></h4>
                 <p>Me and my team are expertised in web design and developing.
@@ -200,19 +201,19 @@
                     Fully customized and reliable for your needs.</p>
             </div>
 
-            <div class="col-md-3 col-sm-6 service">
+            <div class="col-md-3 col-sm-6 service wow bounceInUp animated" data-wow-delay="0.3s">
                 <i class="fa fa-file-text-o" aria-hidden="true"></i>
                 <h4><strong>English-Indonesia Translate</strong></h4>
                 <p>I will give you flexible translation, fit with Indonesia people understanding.</p>
             </div>
 
-            <div class="col-md-3 col-sm-6 service">
+            <div class="col-md-3 col-sm-6 service wow bounceInUp animated" data-wow-delay="0.4s">
                 <i class="fa fa-language" aria-hidden="true"></i>
                 <h4><strong>Web and Apps Localization</strong></h4>
                 <p>I will translate your websites or applications without breaking the templates.</p>
             </div>
 
-            <div class="col-md-3 col-sm-6 service">
+            <div class="col-md-3 col-sm-6 service wow bounceInUp animated" data-wow-delay="0.5s">
                 <i class="fa fa-mobile" aria-hidden="true"></i>
                 <h4><strong>Apps Testing</strong></h4>
                 <p>Will do thorough testing for your built Android apps.</p>
@@ -234,27 +235,31 @@
                 </div>
             </div>
             <div id="clients" class="owl-carousel owl-theme">
-                <!--<div class="item">
-                    <img src="img/client/01.png">
+                <div class="item" >
+                    <a href="http://www.kawandasawolu.com/" style="text-decoration: none" target="_blank">
+                        <img src="img/client/kawandasawolu.png">
+                    </a>
                 </div>
-                <div class="item">
-                    <img src="img/client/02.png">
+                <div class="item" >
+                    <a href="http://ypki.or.id/" style="text-decoration: none" target="_blank">
+                        <img src="img/client/ypki.png">
+                    </a>
                 </div>
-                <div class="item">
-                    <img src="img/client/03.png">
+                <div class="item" >
+                    <a href="https://play.google.com/store/apps/details?id=fm.player&hl=en" style="text-decoration: none" target="_blank">
+                        <img src="img/client/playerfm.PNG">
+                    </a>
                 </div>
-                <div class="item">
-                    <img src="img/client/04.png">
+                <div class="item" >
+                    <a href="https://play.google.com/store/apps/details?id=mediavision.handwallet&hl=en" style="text-decoration: none" target="_blank">
+                        <img src="img/client/handwallet.PNG">
+                    </a>
                 </div>
-                <div class="item">
-                    <img src="img/client/05.png">
+                <div class="item" >
+                    <a href="https://widgets.websta.me/" style="text-decoration: none">
+                        <img src="img/client/websta.png">
+                    </a>
                 </div>
-                <div class="item">
-                    <img src="img/client/06.png">
-                </div>
-                <div class="item">
-                    <img src="img/client/07.png">
-                </div>-->
             </div>
 
         </div>
@@ -295,8 +300,8 @@
             <div class="clearfix"></div>
         </div>
 
+            <!--<div style="position: relative; height: 16px; overflow: hidden; padding-top:50%;"><iframe src="//widgets-code.websta.me/w/44756ec2fbff?ck=MjAxNi0wOC0zMFQwOTozOTozMy4wMDBa" class="websta-widgets" allowtransparency="true" frameborder="0" scrolling="no" style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;"></iframe> &lt;!&ndash; WEBSTA WIDGETS - widgets.websta.me &ndash;&gt;</div>-->
         <div id="lightbox" class="row">
-
             <div class="col-sm-6 col-md-3 col-lg-3 branding">
                 <div class="portfolio-item">
                     <div class="hover-bg">
@@ -457,6 +462,11 @@
                             <h5>Thank you for helping in our project. We hope to work with you again on our future projects.</h5>
                             <p><strong>GSD</strong>, Upwork Talent Group.</p>
                         </div>
+                        <div class="item">
+                            <h5>Yessika takes initiative in her work and she has done her work diligently. If there is an opportunity in the future, we would hire her again!</h5>
+                            <p><strong>Jo Mio</strong>, Managing Director of A-FIS PTE LTD.</p>
+                        </div>
+
                     </div>
                 </div>
             </div>
@@ -517,14 +527,6 @@
         <div class="pull-left fnav">
             <p>ALL RIGHTS RESERVED. COPYRIGHT © 2016.</p>
         </div>
-        <div class="pull-right fnav">
-            <ul class="footer-social">
-                <li><a href="#"><i class="fa fa-facebook"></i></a></li>
-                <li><a href="#"><i class="fa fa-dribbble"></i></a></li>
-                <li><a href="#"><i class="fa fa-google-plus"></i></a></li>
-                <li><a href="#"><i class="fa fa-twitter"></i></a></li>
-            </ul>
-        </div>
     </div>
 </nav>
 
@@ -545,6 +547,10 @@
 <script type="text/javascript" src="js/main.js"></script>
 
 <script type="text/javascript" src="js/terminal.js"></script>
+<script type="text/javascript" src="js/wow.min.js"></script>
+<script>
+    new WOW().init();
+</script>
 
 </body>
 </html>
