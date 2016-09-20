@@ -108,7 +108,7 @@ document.addEventListener('DOMContentLoaded', function () {
                 addTextToResults("PHP for now.");
                 break;
 
-            case "experienced in":
+            case "exp":
                 clearInput();
                 addTextToResults("Backend web developing and translating English to Indonesian.");
                 break;
