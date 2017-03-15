@@ -5,7 +5,8 @@
     ================================================== -->
     <meta charset="utf-8">
     <!--[if IE]>
-    <meta http-equiv="x-ua-compatible" content="IE=9"/><![endif]-->
+    <meta http-equiv="x-ua-compatible" con
+          tent="IE=9"/><![endif]-->
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <title>Yessika - My Personal Site</title>
     <meta name="description"
@@ -19,7 +20,7 @@
     <link rel="shortcut icon" href="img/favicon.ico" type="image/x-icon">
     <link rel="apple-touch-icon" href="img/apple-touch-icon.png">
     <link rel="apple-touch-icon" sizes="72x72" href="img/apple-touch-icon-72x72.png">
-    <link rel="apple-touch-icon" sizes="114x114" href="img/apple-touch-icon-114x114.png">
+    <link rel="apple-touch-icon" sizes="114x1v14" href="img/apple-touch-icon-114x114.png">
 
     <!-- Bootstrap -->
     <link rel="stylesheet" type="text/css" href="css/bootstrap.css">
@@ -149,26 +150,26 @@
                 <div id="social" class="col-md-12">
 
                     <div class="col-md-3 col-sm-6">
-                        <a href="https://www.facebook.com/yessikanaftalibudiono" style="text-decoration: none">
+                        <a href="https://www.facebook.com/yessikanaftalibudiono" style="text-decoration: none" target="_blank">
                             <i class="fa fa-facebook-square" aria-hidden="true"
                                style="font-size: 10em; color: #fff;"></i>
                         </a>
                     </div>
 
                     <div class="col-md-3 col-sm-6">
-                        <a href="https://www.linkedin.com/in/yessika21289" style="text-decoration: none">
+                        <a href="https://www.linkedin.com/in/yessika21289" style="text-decoration: none" target="_blank">
                             <i class="fa fa-linkedin-square" aria-hidden="true"
                                style="font-size: 10em; color: #fff;"></i>
                         </a>
                     </div>
                     <div class="col-md-3 col-sm-6">
-                        <a href="https://twitter.com/yessika21289" style="text-decoration: none">
+                        <a href="https://twitter.com/yessika21289" style="text-decoration: none" target="_blank">
                             <i class="fa fa-twitter-square" aria-hidden="true"
                                style="font-size: 10em; color: #fff;"></i>
                         </a>
                     </div>
                     <div class="col-md-3 col-sm-6">
-                        <a href="https://plus.google.com/u/1/" style="text-decoration: none">
+                        <a href="https://plus.google.com/u/1/" style="text-decoration: none" target="_blank">
                             <i class="fa fa-google-plus-official" aria-hidden="true"
                                style="font-size: 10em; color: #fff;"></i>
                         </a>
@@ -564,7 +565,11 @@
 <script type="text/javascript" src="js/SmoothScroll.js"></script>
 <script type="text/javascript" src="js/jquery.inview.min.js"></script>
 <script type="text/javascript" src="js/jquery.isotope.js"></script>
-
+<script type="text/javascript" src="js/js-yaml.min.js"></script>
+<script type="text/javascript">
+    var doc = yaml.safeLoad(fs.readFileSync('/language_en.yml', 'utf8'));
+    console.log(doc);
+</script>
 <script src="js/owl.carousel.js"></script>
 
 <!-- Javascripts
