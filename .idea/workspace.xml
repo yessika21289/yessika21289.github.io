@@ -2,129 +2,6 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="82865952-b499-45f4-9287-a77febe6fcf4" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/maemyuk/static/.gitkeep" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/jsLibraryMappings.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/watcherTasks.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/maemyuk/.babelrc" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/maemyuk/.editorconfig" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/maemyuk/.eslintignore" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/maemyuk/.eslintrc.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/maemyuk/.gitignore" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/maemyuk/.postcssrc.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/maemyuk/README.md" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/maemyuk/build/build.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/maemyuk/build/check-versions.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/maemyuk/build/dev-client.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/maemyuk/build/dev-server.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/maemyuk/build/utils.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/maemyuk/build/vue-loader.conf.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/maemyuk/build/webpack.base.conf.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/maemyuk/build/webpack.dev.conf.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/maemyuk/build/webpack.prod.conf.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/maemyuk/config/dev.env.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/maemyuk/config/index.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/maemyuk/config/prod.env.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/maemyuk/index.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/maemyuk/package.json" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/maemyuk/presentation.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/maemyuk/src/App.vue" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/maemyuk/src/components/Home.vue" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/maemyuk/src/main.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/maemyuk/src/router/index.js" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/.bin/esparse" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/.bin/esparse.cmd" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/.bin/esvalidate" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/.bin/esvalidate.cmd" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/.bin/js-yaml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/.bin/js-yaml.cmd" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/argparse/CHANGELOG.md" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/argparse/LICENSE" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/argparse/README.md" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/argparse/index.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/argparse/lib/action.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/argparse/lib/action/append.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/argparse/lib/action/append/constant.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/argparse/lib/action/count.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/argparse/lib/action/help.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/argparse/lib/action/store.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/argparse/lib/action/store/constant.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/argparse/lib/action/store/false.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/argparse/lib/action/store/true.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/argparse/lib/action/subparsers.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/argparse/lib/action/version.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/argparse/lib/action_container.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/argparse/lib/argparse.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/argparse/lib/argument/error.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/argparse/lib/argument/exclusive.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/argparse/lib/argument/group.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/argparse/lib/argument_parser.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/argparse/lib/const.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/argparse/lib/help/added_formatters.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/argparse/lib/help/formatter.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/argparse/lib/namespace.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/argparse/lib/utils.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/argparse/package.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/esprima/ChangeLog" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/esprima/LICENSE.BSD" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/esprima/README.md" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/esprima/bin/esparse.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/esprima/bin/esvalidate.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/esprima/dist/esprima.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/esprima/package.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/js-yaml/CHANGELOG.md" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/js-yaml/LICENSE" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/js-yaml/README.md" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/js-yaml/bin/js-yaml.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/js-yaml/dist/js-yaml.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/js-yaml/dist/js-yaml.min.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/js-yaml/index.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/js-yaml/lib/js-yaml.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/js-yaml/lib/js-yaml/common.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/js-yaml/lib/js-yaml/dumper.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/js-yaml/lib/js-yaml/exception.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/js-yaml/lib/js-yaml/loader.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/js-yaml/lib/js-yaml/mark.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/js-yaml/lib/js-yaml/schema.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/js-yaml/lib/js-yaml/schema/core.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/js-yaml/lib/js-yaml/schema/default_full.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/js-yaml/lib/js-yaml/schema/default_safe.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/js-yaml/lib/js-yaml/schema/failsafe.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/js-yaml/lib/js-yaml/schema/json.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/js-yaml/lib/js-yaml/type.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/js-yaml/lib/js-yaml/type/binary.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/js-yaml/lib/js-yaml/type/bool.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/js-yaml/lib/js-yaml/type/float.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/js-yaml/lib/js-yaml/type/int.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/js-yaml/lib/js-yaml/type/js/function.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/js-yaml/lib/js-yaml/type/js/regexp.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/js-yaml/lib/js-yaml/type/js/undefined.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/js-yaml/lib/js-yaml/type/map.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/js-yaml/lib/js-yaml/type/merge.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/js-yaml/lib/js-yaml/type/null.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/js-yaml/lib/js-yaml/type/omap.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/js-yaml/lib/js-yaml/type/pairs.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/js-yaml/lib/js-yaml/type/seq.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/js-yaml/lib/js-yaml/type/set.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/js-yaml/lib/js-yaml/type/str.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/js-yaml/lib/js-yaml/type/timestamp.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/js-yaml/package.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/sprintf-js/.npmignore" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/sprintf-js/LICENSE" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/sprintf-js/README.md" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/sprintf-js/bower.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/sprintf-js/demo/angular.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/sprintf-js/dist/angular-sprintf.min.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/sprintf-js/dist/angular-sprintf.min.js.map" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/sprintf-js/dist/angular-sprintf.min.map" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/sprintf-js/dist/sprintf.min.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/sprintf-js/dist/sprintf.min.js.map" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/sprintf-js/dist/sprintf.min.map" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/sprintf-js/gruntfile.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/sprintf-js/package.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/sprintf-js/src/angular-sprintf.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/sprintf-js/src/sprintf.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/sprintf-js/test/test.js" afterPath="" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/misc.xml" afterPath="$PROJECT_DIR$/.idea/misc.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="yessika21289.github.io.iws" />
@@ -150,8 +27,8 @@
       <file leaf-file-name="package.json" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/maemyuk/package.json">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="180">
-              <caret line="10" column="43" selection-start-line="10" selection-start-column="43" selection-end-line="10" selection-end-column="43" />
+            <state relative-caret-position="72">
+              <caret line="4" column="24" selection-start-line="4" selection-start-column="24" selection-end-line="4" selection-end-column="24" />
               <folding />
             </state>
           </provider>
@@ -382,7 +259,7 @@
       <workItem from="1489649234382" duration="9397000" />
       <workItem from="1489715719990" duration="1455000" />
       <workItem from="1489808998845" duration="3955000" />
-      <workItem from="1491191231296" duration="2376000" />
+      <workItem from="1491191231296" duration="3166000" />
     </task>
     <task id="LOCAL-00001" summary="Add Transifex">
       <created>1487662667823</created>
@@ -405,11 +282,25 @@
       <option name="project" value="LOCAL" />
       <updated>1489566849731</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="Vue maps done">
+      <created>1491193993930</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1491193993930</updated>
+    </task>
+    <task id="LOCAL-00005" summary="Added files">
+      <created>1491194022440</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1491194022440</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="29650000" />
+    <option name="totallyTimeSpent" value="30440000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
@@ -421,7 +312,7 @@
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.5106383" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.5106383" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
@@ -449,7 +340,9 @@
     <MESSAGE value="Add Transifex" />
     <MESSAGE value="Added presentation" />
     <MESSAGE value="Added prefix and sufix" />
-    <option name="LAST_COMMIT_MESSAGE" value="Added prefix and sufix" />
+    <MESSAGE value="Vue maps done" />
+    <MESSAGE value="Added files" />
+    <option name="LAST_COMMIT_MESSAGE" value="Added files" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
@@ -521,6 +414,7 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="180">
           <caret line="10" column="0" selection-start-line="10" selection-start-column="0" selection-end-line="10" selection-end-column="0" />
+          <folding />
         </state>
       </provider>
     </entry>
@@ -528,6 +422,9 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="162">
           <caret line="11" column="21" selection-start-line="11" selection-start-column="21" selection-end-line="11" selection-end-column="21" />
+          <folding>
+            <element signature="e#0#21#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
@@ -535,6 +432,7 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="162">
           <caret line="9" column="13" selection-start-line="9" selection-start-column="13" selection-end-line="9" selection-end-column="13" />
+          <folding />
         </state>
       </provider>
     </entry>
@@ -569,6 +467,9 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="162">
           <caret line="11" column="21" selection-start-line="11" selection-start-column="21" selection-end-line="11" selection-end-column="21" />
+          <folding>
+            <element signature="e#0#21#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
@@ -576,6 +477,7 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="162">
           <caret line="9" column="13" selection-start-line="9" selection-start-column="13" selection-end-line="9" selection-end-column="13" />
+          <folding />
         </state>
       </provider>
     </entry>
@@ -610,6 +512,7 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="252">
           <caret line="14" column="6" selection-start-line="14" selection-start-column="6" selection-end-line="14" selection-end-column="6" />
+          <folding />
         </state>
       </provider>
     </entry>
@@ -715,6 +618,7 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="180">
           <caret line="10" column="0" selection-start-line="10" selection-start-column="0" selection-end-line="10" selection-end-column="0" />
+          <folding />
         </state>
       </provider>
     </entry>
@@ -722,6 +626,7 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
         </state>
       </provider>
     </entry>
@@ -729,6 +634,7 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="72">
           <caret line="4" column="12" selection-start-line="4" selection-start-column="12" selection-end-line="4" selection-end-column="12" />
+          <folding />
         </state>
       </provider>
     </entry>
@@ -736,6 +642,9 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="54">
           <caret line="3" column="0" selection-start-line="3" selection-start-column="0" selection-end-line="3" selection-end-column="0" />
+          <folding>
+            <element signature="e#0#21#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
@@ -743,6 +652,7 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="126">
           <caret line="7" column="16" selection-start-line="7" selection-start-column="16" selection-end-line="7" selection-end-column="16" />
+          <folding />
         </state>
       </provider>
     </entry>
@@ -805,8 +715,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/maemyuk/package.json">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="180">
-          <caret line="10" column="43" selection-start-line="10" selection-start-column="43" selection-end-line="10" selection-end-column="43" />
+        <state relative-caret-position="72">
+          <caret line="4" column="24" selection-start-line="4" selection-start-column="24" selection-end-line="4" selection-end-column="24" />
           <folding />
         </state>
       </provider>
