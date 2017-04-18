@@ -1,6 +1,6 @@
-# maemyuk
+# vue-forsquare-gmaps
 
-> A Vue.js project
+> vue integrate with forsquare gmaps
 
 ## Build Setup
 
@@ -13,6 +13,9 @@ npm run dev
 
 # build for production with minification
 npm run build
+
+# build for production with serve
+npm run start
 
 # build for production and view the bundle analyzer report
 npm run build --report

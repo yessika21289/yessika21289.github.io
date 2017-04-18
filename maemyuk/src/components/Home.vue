@@ -45,9 +45,10 @@
 </template>
 <script>
   import _ from 'lodash'
-  import services from '../../config/services'
+  import google from '../../config/google_maps'
+  import config from '../../config/foursquare'
   import foursquare from 'node-foursquare-venues'
-  const client = foursquare(services.foursquare.appId, services.foursquare.secretKey)
+  const client = foursquare(config.appId, config.secretKey)
 
   export default {
     name: 'home',
@@ -106,7 +107,7 @@
             this.focusMap(lat, lng)
           })
         } else {
-          let position = `https://www.googleapis.com/geolocation/v1/geolocate?key=${services.google.key}`
+          let position = `https://www.googleapis.com/geolocation/v1/geolocate?key=${google.api_key}`
           fetch(position, {method: 'POST'})
             .then((response) => response.json())
             .then((data) => {
