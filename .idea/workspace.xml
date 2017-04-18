@@ -2,39 +2,55 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="82865952-b499-45f4-9287-a77febe6fcf4" name="Default" comment="Build">
-      <change type="DELETED" beforePath="$PROJECT_DIR$/maemyuk/config/services.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/maemyuk/src/store/actions.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/maemyuk/src/store/getters.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/maemyuk/src/store/index.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/maemyuk/src/store/modules/location.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/maemyuk/src/store/modules/map.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/maemyuk/src/store/mutation-types.js" afterPath="" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/maemyuk/static/img/bg-img.b03b2cf.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/blade.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/maemyuk/static/css/app.efd6733a7153d69da5d39bfd75abb7f5.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/maemyuk/static/css/app.efd6733a7153d69da5d39bfd75abb7f5.css.map" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/maemyuk/static/js/app.6e44db1ba6002eb7a842.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/maemyuk/static/js/app.6e44db1ba6002eb7a842.js.map" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/maemyuk/static/js/manifest.051155dda44c2782b81b.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/maemyuk/static/js/manifest.051155dda44c2782b81b.js.map" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/maemyuk/static/js/vendor.24773cb515f497fe3d02.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/maemyuk/static/js/vendor.24773cb515f497fe3d02.js.map" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/npm-debug.log" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/maemyuk/.babelrc" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/maemyuk/.editorconfig" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/maemyuk/.eslintignore" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/maemyuk/.eslintrc.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/maemyuk/.gitignore" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/maemyuk/.postcssrc.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/maemyuk/README.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/maemyuk/build/build.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/maemyuk/build/check-versions.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/maemyuk/build/dev-client.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/maemyuk/build/dev-server.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/maemyuk/build/utils.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/maemyuk/build/vue-loader.conf.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/maemyuk/build/webpack.base.conf.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/maemyuk/build/webpack.dev.conf.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/maemyuk/build/webpack.prod.conf.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/maemyuk/config/dev.env.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/maemyuk/config/foursquare.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/maemyuk/config/google_maps.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/maemyuk/config/index.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/maemyuk/config/prod.env.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/maemyuk/package.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/maemyuk/presentation.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/maemyuk/server.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/maemyuk/src/App.vue" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/maemyuk/src/assets/css/navigation.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/maemyuk/src/assets/css/reset.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/maemyuk/src/assets/css/style.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/maemyuk/src/assets/img/bg-img.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/maemyuk/src/components/About.vue" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/maemyuk/src/components/Contact.vue" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/maemyuk/src/components/Home.vue" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/maemyuk/src/components/Navigation.vue" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/maemyuk/src/main.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/maemyuk/src/router/index.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/maemyuk/static/.gitkeep" afterPath="" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/maemyuk/.babelrc" afterPath="$PROJECT_DIR$/maemyuk/.babelrc" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/maemyuk/.gitignore" afterPath="$PROJECT_DIR$/maemyuk/.gitignore" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/maemyuk/README.md" afterPath="$PROJECT_DIR$/maemyuk/README.md" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/maemyuk/build/build.js" afterPath="$PROJECT_DIR$/maemyuk/build/build.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/maemyuk/build/dev-server.js" afterPath="$PROJECT_DIR$/maemyuk/build/dev-server.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/maemyuk/build/webpack.base.conf.js" afterPath="$PROJECT_DIR$/maemyuk/build/webpack.base.conf.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/maemyuk/build/webpack.dev.conf.js" afterPath="$PROJECT_DIR$/maemyuk/build/webpack.dev.conf.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/maemyuk/build/webpack.prod.conf.js" afterPath="$PROJECT_DIR$/maemyuk/build/webpack.prod.conf.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/maemyuk/config/dev.env.js" afterPath="$PROJECT_DIR$/maemyuk/config/dev.env.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/maemyuk/config/foursquare.js" afterPath="$PROJECT_DIR$/maemyuk/config/foursquare.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/maemyuk/config/google_maps.js" afterPath="$PROJECT_DIR$/maemyuk/config/google_maps.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/maemyuk/config/index.js" afterPath="$PROJECT_DIR$/maemyuk/config/index.js" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/maemyuk/index.html" afterPath="$PROJECT_DIR$/maemyuk/index.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/maemyuk/presentation.js" afterPath="$PROJECT_DIR$/maemyuk/presentation.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/maemyuk/src/App.vue" afterPath="$PROJECT_DIR$/maemyuk/src/App.vue" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/maemyuk/src/assets/css/reset.css" afterPath="$PROJECT_DIR$/maemyuk/src/assets/css/reset.css" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/maemyuk/src/assets/css/style.css" afterPath="$PROJECT_DIR$/maemyuk/src/assets/css/style.css" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/maemyuk/src/components/About.vue" afterPath="$PROJECT_DIR$/maemyuk/src/components/About.vue" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/maemyuk/src/components/Contact.vue" afterPath="$PROJECT_DIR$/maemyuk/src/components/Contact.vue" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/maemyuk/src/components/Home.vue" afterPath="$PROJECT_DIR$/maemyuk/src/components/Home.vue" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/maemyuk/src/components/Navigation.vue" afterPath="$PROJECT_DIR$/maemyuk/src/components/Navigation.vue" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/maemyuk/src/router/index.js" afterPath="$PROJECT_DIR$/maemyuk/src/router/index.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/maemyuk/static/jquery-2.1.4.js" afterPath="$PROJECT_DIR$/maemyuk/static/jquery-2.1.4.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/maemyuk/static/main.js" afterPath="$PROJECT_DIR$/maemyuk/static/main.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/maemyuk/static/modernizr.js" afterPath="$PROJECT_DIR$/maemyuk/static/modernizr.js" />
     </list>
     <ignored path="yessika21289.github.io.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -59,8 +75,8 @@
       <file leaf-file-name="index.html" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="278">
-              <caret line="99" column="14" selection-start-line="99" selection-start-column="14" selection-end-line="99" selection-end-column="14" />
+            <state relative-caret-position="116">
+              <caret line="90" column="0" selection-start-line="90" selection-start-column="0" selection-end-line="90" selection-end-column="0" />
               <folding>
                 <marker date="1489812912457" expanded="true" signature="211:234" ph="..." />
               </folding>
@@ -169,25 +185,7 @@
               <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="presentation" />
-              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="yessika21289.github.io" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="yessika21289.github.io" />
-              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="presentation" />
-              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="js" />
+              <option name="myItemId" value="maemyuk" />
               <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
             </PATH_ELEMENT>
           </PATH>
@@ -204,6 +202,10 @@
               <option name="myItemId" value="maemyuk" />
               <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
             </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="static" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
           </PATH>
         </subPane>
       </pane>
@@ -212,7 +214,7 @@
     </panes>
   </component>
   <component name="PropertiesComponent">
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../maemyuk" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="js-jscs-nodeInterpreter" value="C:\Program Files\nodejs\node.exe" />
     <property name="nodejs_interpreter_path" value="C:/Program Files/nodejs/node" />
@@ -278,7 +280,7 @@
       <workItem from="1491191231296" duration="3785000" />
       <workItem from="1492410486034" duration="3787000" />
       <workItem from="1492486892160" duration="1127000" />
-      <workItem from="1492497510967" duration="16000" />
+      <workItem from="1492497510967" duration="1320000" />
     </task>
     <task id="LOCAL-00001" summary="Add Transifex">
       <created>1487662667823</created>
@@ -322,11 +324,18 @@
       <option name="project" value="LOCAL" />
       <updated>1491194766966</updated>
     </task>
-    <option name="localTasksCounter" value="7" />
+    <task id="LOCAL-00007" summary="Build">
+      <created>1492497534958</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1492497534958</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="35989000" />
+    <option name="totallyTimeSpent" value="37293000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
@@ -376,7 +385,6 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/maemyuk/config/services.js" />
     <entry file="file://$PROJECT_DIR$/maemyuk/src/components/Home.vue">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="720">
@@ -637,13 +645,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/maemyuk/package.json">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="198">
-          <caret line="11" column="39" selection-start-line="11" selection-start-column="39" selection-end-line="11" selection-end-column="39" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/maemyuk/src/main.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="126">
@@ -697,13 +698,30 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/maemyuk/package.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="162">
+          <caret line="9" column="10" selection-start-line="9" selection-start-column="5" selection-end-line="9" selection-end-column="10" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/maemyuk/.gitignore">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="108">
+          <caret line="6" column="0" selection-start-line="6" selection-start-column="0" selection-end-line="6" selection-end-column="0" />
+          <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="278">
-          <caret line="99" column="14" selection-start-line="99" selection-start-column="14" selection-end-line="99" selection-end-column="14" />
+        <state relative-caret-position="116">
+          <caret line="90" column="0" selection-start-line="90" selection-start-column="0" selection-end-line="90" selection-end-column="0" />
           <folding>
             <marker date="1489812912457" expanded="true" signature="211:234" ph="..." />
           </folding>
