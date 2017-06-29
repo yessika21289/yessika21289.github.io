@@ -3,8 +3,6 @@
   <component name="ChangeListManager">
     <list default="true" id="82865952-b499-45f4-9287-a77febe6fcf4" name="Default" comment="">
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/trove/index.html" afterPath="$PROJECT_DIR$/trove/index.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/trove/style.css" afterPath="$PROJECT_DIR$/trove/style.css" />
     </list>
     <ignored path="yessika21289.github.io.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -28,8 +26,8 @@
       <file leaf-file-name="index.html" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/trove/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="264">
-              <caret line="57" column="66" lean-forward="false" selection-start-line="57" selection-start-column="66" selection-end-line="57" selection-end-column="66" />
+            <state relative-caret-position="286">
+              <caret line="58" column="22" lean-forward="true" selection-start-line="58" selection-start-column="22" selection-end-line="58" selection-end-column="22" />
               <folding />
             </state>
           </provider>
@@ -294,7 +292,7 @@
       <workItem from="1492486892160" duration="1127000" />
       <workItem from="1492497510967" duration="2387000" />
       <workItem from="1493883209307" duration="4762000" />
-      <workItem from="1498719570447" duration="1297000" />
+      <workItem from="1498719570447" duration="1309000" />
     </task>
     <task id="LOCAL-00001" summary="Add Transifex">
       <created>1487662667823</created>
@@ -380,11 +378,18 @@
       <option name="project" value="LOCAL" />
       <updated>1498720070379</updated>
     </task>
-    <option name="localTasksCounter" value="13" />
+    <task id="LOCAL-00013" summary="Difference">
+      <created>1498720883203</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1498720883203</updated>
+    </task>
+    <option name="localTasksCounter" value="14" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="44419000" />
+    <option name="totallyTimeSpent" value="44431000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1382" height="784" extended-state="6" />
@@ -459,7 +464,8 @@
     <MESSAGE value="Add maemyuk project" />
     <MESSAGE value="Add trove for demo" />
     <MESSAGE value="Fix path" />
-    <option name="LAST_COMMIT_MESSAGE" value="Fix path" />
+    <MESSAGE value="Difference" />
+    <option name="LAST_COMMIT_MESSAGE" value="Difference" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
@@ -656,8 +662,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/trove/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="264">
-          <caret line="57" column="66" lean-forward="false" selection-start-line="57" selection-start-column="66" selection-end-line="57" selection-end-column="66" />
+        <state relative-caret-position="286">
+          <caret line="58" column="22" lean-forward="true" selection-start-line="58" selection-start-column="22" selection-end-line="58" selection-end-column="22" />
           <folding />
         </state>
       </provider>
