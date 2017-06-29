@@ -274,6 +274,9 @@ img {
 .box-all {
     width: 100%;
 }
+a:hover {
+    text-decoration: none;
+}
 
 @media screen and (max-width: 1230px) {
     
@@ -385,8 +388,11 @@ img {
     top: -10px;
 }
 
-img#ups {
+img.ups {
     height: auto;
+}
+.android {
+    margin-bottom: 3px;
 }
 
 @media screen and (max-width: 990px) .box-download {
@@ -401,7 +407,7 @@ img#ups {
     min-height: 80px;
 }
 
-#itunes {
+.itunes {
     border-radius: 8px;
     position: relative;
     top: 0px;
