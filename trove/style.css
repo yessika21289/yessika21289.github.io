@@ -1,0 +1,409 @@
+* {
+    box-sizing: border-box;
+}
+
+#front1 {
+    position: relative;
+    left: 10px;
+    margin-top:-80px;
+}
+
+#front2 {
+    margin-top:-80px;
+}
+
+body {
+    margin: 0;
+    font-weight: 500;
+    font-family: 'Raleway', sans-serif;
+    background-image: url(assets/img/landing-bck.jpg);
+    width: 100%;
+}
+
+.container {
+    width: 90%;
+}
+
+section {
+    width: 100%;
+    padding: 0 0;
+    display: table;
+    margin: 0;
+    max-width: none;
+    background-image: url(assets/img/blue-back.png);
+    height: 100vh;
+    background-size: 100% 100%;
+    background-position: center;
+    background-repeat: no-repeat;
+}
+
+section:nth-of-type(2n) {
+    background-image: url(assets/img/blue-back2.png);
+    background-size: 100% 100%;
+    background-position: center;
+    background-repeat: no-repeat;
+}
+
+.logo {
+    margin-top: 0;
+    margin-left: 0px;
+    z-index: 0;
+    display: block;
+}
+
+.nav_trig {
+    display: none;
+}
+
+#navigation {
+    position: fixed;
+    right: 40px;
+    top: 50%;
+    -webkit-transform: translateY(-50%);
+    -moz-transform: translateY(-50%);
+    -ms-transform: translateY(-50%);
+    -o-transform: translateY(-50%);
+    z-index: 1;
+}
+
+#navigation li {
+    text-align: right;
+}
+
+#navigation a {
+    display: inline-block;
+}
+
+#navigation a:after {
+    content="";
+    display: table;
+    clear: both;
+}
+
+#navigation a span {
+    float: right;
+    display: inline-block;
+    -webkit-transform: scale(0.6);
+    -moz-transform: scale(0.6);
+    -ms-transform: scale(0.6);
+    -o-transform: scale(0.6);
+    transform: scale(0.6);
+}
+
+#navigation a:hover span {
+    -webkit-transform: scale(1);
+    -moz-transform: scale(1);
+    -ms-transform: scale(1);
+    -o-transform: scale(1);
+    transform: scale(1);
+}
+
+#navigation a:hover .label {
+    opacity: 1;
+}
+
+#navigation a.is-selected .dot {
+    background-color: white;
+}
+
+#navigation a.is-selected .label {
+    opacity: 1;
+}
+
+#navigation .dot {
+    position: relative;
+    /* we set a top value in order to align the dot with the label. If you change label's font, you may need to change this top value*/
+    top: 8px;
+    height: 12px;
+    width: 12px;
+    border-radius: 50%;
+    background-color: #6467A1;
+    -webkit-transition: -webkit-transform 0.2s, background-color 0.5s;
+    -moz-transition: -moz-transform 0.2s, background-color 0.5s;
+    transition: transform 0.2s, background-color 0.5s;
+    -webkit-transform-origin: 50% 50%;
+    -moz-transform-origin: 50% 50%;
+    -ms-transform-origin: 50% 50%;
+    -o-transform-origin: 50% 50%;
+    transform-origin: 50% 50%;
+}
+
+#navigation .label {
+    position: relative;
+    margin-right: 10px;
+    padding: .4em .5em;
+    color: white;
+    font-size: 14px;
+    font-size: 0.875rem;
+    -webkit-transition: -webkit-transform 0.2s, opacity 0.2s;
+    -moz-transition: -moz-transform 0.2s, opacity 0.2s;
+    transition: transform 0.2s, opacity 0.2s;
+    opacity: 0;
+    -webkit-transform-origin: 100% 50%;
+    -moz-transform-origin: 100% 50%;
+    -ms-transform-origin: 100% 50%;
+    -o-transform-origin: 100% 50%;
+    transform-origin: 100% 50%;
+}
+
+.arrow-up {
+    margin-left: 5px;
+    margin-bottom: 50px;
+}
+
+.arrow-down {
+    margin-left: 5px;
+    margin-top: 50px;
+}
+
+ul,
+ol {
+    margin: 0;
+    padding: 0;
+}
+
+ul {
+    list-style: none;
+}
+
+ul li {
+    position: relative;
+    line-height: 2.25;
+    vertical-align: middle;
+}
+
+img {
+    vertical-align: baseline;
+}
+
+.content-word {
+    display: table-cell;
+    vertical-align: middle;
+}
+
+.table-word {
+    display: table;
+    vertical-align: middle;
+}
+
+.heading-title {
+    font-size: 4rem;
+    margin-top: 30px;
+    margin-left: 100px;
+    font-weight: 700;
+    color: #6467A1;
+}
+
+.skin {
+    margin-top: 30px;
+}
+
+.content-block {
+    margin-left: 100px;
+    color: #000;
+    font-size: 15px;
+    width: 80%;
+    margin-top: 60px;
+}
+
+.device-download {
+    margin-left: 100px;
+    margin-top: 60px;
+}
+
+.box-download {
+    width: 100px;
+    display: inline-block;
+    border-radius: 8px;
+    min-height: 100px;
+}
+
+.box-mobile {
+    display: inline-block;
+    margin-left: 30px;
+}
+
+.google-play {
+    margin-top: 10px;
+}
+
+.button-group {
+    margin-left: 100px;
+    margin-top: 0px;
+}
+
+.foot {
+    text-align: center;
+    color: #989898;
+    font-size: 14px;
+    margin-top: 10px;
+    margin-bottom: 20px;
+}
+
+.mock-group {
+    position: relative;
+    text-align: center;
+}
+
+.mock-group .front-mock {
+    z-index: 1;
+    position: absolute;
+    bottom: 0;
+    right: 0;
+}
+
+.mock-group .back-mock {
+    z-index: 2;
+    position: relative;
+}
+
+.mock-group .back-mocks {
+    z-index: 0;
+    position: relative;
+    
+}
+
+.mock-group .front-mock {
+    margin-right: 18%;
+}
+
+.mock-group .back-mock {
+    margin-left: 40px;
+}
+
+.box-all {
+    width: 100%;
+}
+
+@media screen and (max-width: 1230px) {
+    
+    .heading-title {
+        margin-left: 20px !important;
+    }
+    .content-block {
+        margin-left: 20px !important;
+    }
+    .device-download {
+        margin-left: 20px !important;
+    }
+    section {
+        background-image: none !important;
+    }
+    section:nth-of-type(2n) {
+        background-image: none !important;
+    }
+    #navigation {
+        display: none !important;
+    }
+    .mock-group .back-mock {
+        max-width: 100%;
+    }
+    .mock-group .back-mocks {
+        max-width: 100%;
+    }
+    .button-group {
+        margin-left: 20px !important;
+        margin-top: 60px !important;
+    }
+
+}
+
+@media screen and (max-width: 990px) {
+    .heading-title {
+        text-align: center !important;
+    }
+    .content-block {
+        text-align: center !important;
+        width: 100%
+    }
+    .content-word {
+        text-align: center !important;
+    }
+    .logo2 {
+        display: none !important;
+    }
+    .box-download {
+        text-align: center !important;
+        width: 100px;
+    }
+    .box-mobile {
+        text-align: center !important;
+        max-width: 50%;
+    }
+    .box-content {
+        text-align: center !important;
+        margin-top: 60px !important;
+    }
+    .phone {
+        text-align: center !important;
+        margin-top: 60px !important;
+    }
+    .box-all {
+        text-align: center !important;
+        margin: 0 auto;
+        width: 100%;
+        height: auto;
+    }
+    .box-mobile {
+        text-align: center !important;
+    }
+    .skin {
+        margin-top: 60px !important;
+    }
+    .button-group {
+        margin-left: 0px !important;
+        margin-top: 60px !important;
+    }
+    #front1 {
+        margin-top:0 !important;
+    }
+    #front2 {
+        margin-top:0 !important;
+    }
+    
+}
+
+
+@media screen and (max-width: 600px) {
+    .heading-title {
+        margin-left: 0px !important;
+        margin-top:20px;
+    }
+    .content-block {
+        margin-left: 0px !important;
+    }
+    .device-download {
+        margin-left: 20px !important;
+    }
+    .mock-group .back-mock {
+        margin-left: 0px;
+    }
+}
+
+#hello {
+    position: relative;
+    top: -10px;
+}
+
+img#ups {
+    height: auto;
+}
+
+@media screen and (max-width: 990px) .box-download {
+    text-align: center !important;
+    width: 80px;
+}
+
+.box-download {
+    width: 100px;
+    display: inline-block;
+    border-radius: 8px;
+    min-height: 80px;
+}
+
+#itunes {
+    border-radius: 8px;
+    position: relative;
+    top: 0px;
+    z-index: 100;
+}
