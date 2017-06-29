@@ -3,7 +3,6 @@
   <component name="ChangeListManager">
     <list default="true" id="82865952-b499-45f4-9287-a77febe6fcf4" name="Default" comment="">
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/trove/index.html" afterPath="$PROJECT_DIR$/trove/index.html" />
     </list>
     <ignored path="yessika21289.github.io.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -24,23 +23,11 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="index.html" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/index.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="193">
-              <caret line="239" column="48" lean-forward="true" selection-start-line="239" selection-start-column="48" selection-end-line="239" selection-end-column="48" />
-              <folding>
-                <marker date="1498103802889" expanded="true" signature="211:234" ph="..." />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file leaf-file-name="index.html" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/trove/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="218">
-              <caret line="93" column="28" lean-forward="true" selection-start-line="93" selection-start-column="28" selection-end-line="93" selection-end-column="28" />
+            <state relative-caret-position="240">
+              <caret line="56" column="0" lean-forward="true" selection-start-line="56" selection-start-column="0" selection-end-line="56" selection-end-column="0" />
               <folding />
             </state>
           </provider>
@@ -57,8 +44,8 @@
   </component>
   <component name="FindInProjectRecents">
     <findStrings>
-      <find>340</find>
       <find>340fb_2</find>
+      <find>340</find>
     </findStrings>
   </component>
   <component name="Git.Settings">
@@ -292,7 +279,7 @@
       <workItem from="1492486892160" duration="1127000" />
       <workItem from="1492497510967" duration="2387000" />
       <workItem from="1493883209307" duration="4762000" />
-      <workItem from="1498719570447" duration="418000" />
+      <workItem from="1498719570447" duration="491000" />
     </task>
     <task id="LOCAL-00001" summary="Add Transifex">
       <created>1487662667823</created>
@@ -364,11 +351,18 @@
       <option name="project" value="LOCAL" />
       <updated>1498719828018</updated>
     </task>
-    <option name="localTasksCounter" value="11" />
+    <task id="LOCAL-00011" summary="Fix path">
+      <created>1498720003469</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1498720003469</updated>
+    </task>
+    <option name="localTasksCounter" value="12" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="43540000" />
+    <option name="totallyTimeSpent" value="43613000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1382" height="784" extended-state="6" />
@@ -415,9 +409,9 @@
     <MESSAGE value="Added files" />
     <MESSAGE value="Build" />
     <MESSAGE value="Add maemyuk project" />
-    <MESSAGE value="Fix path" />
     <MESSAGE value="Add trove for demo" />
-    <option name="LAST_COMMIT_MESSAGE" value="Add trove for demo" />
+    <MESSAGE value="Fix path" />
+    <option name="LAST_COMMIT_MESSAGE" value="Fix path" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
@@ -607,8 +601,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/trove/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="218">
-          <caret line="93" column="28" lean-forward="true" selection-start-line="93" selection-start-column="28" selection-end-line="93" selection-end-column="28" />
+        <state relative-caret-position="240">
+          <caret line="56" column="0" lean-forward="true" selection-start-line="56" selection-start-column="0" selection-end-line="56" selection-end-column="0" />
           <folding />
         </state>
       </provider>
