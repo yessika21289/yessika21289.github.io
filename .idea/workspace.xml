@@ -1,63 +1,22 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="82865952-b499-45f4-9287-a77febe6fcf4" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/troveskin/assets/icons/apple-store.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/troveskin/assets/icons/google-play.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/troveskin/assets/icons/icon-solve-1.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/troveskin/assets/icons/icon-solve-2.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/troveskin/assets/icons/icon-step-1.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/troveskin/assets/icons/icon-step-2.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/troveskin/assets/icons/icon-step-3.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/troveskin/assets/icons/language-en.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/troveskin/assets/icons/mouse.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/troveskin/assets/images/app-about.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/troveskin/assets/images/app-homepage.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/troveskin/assets/images/dotted-about.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/troveskin/assets/images/dotted-homepage.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/troveskin/assets/images/footer-about.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/troveskin/assets/images/footer-homepage.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/troveskin/assets/images/header-about.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/troveskin/assets/images/header-homepage.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/troveskin/assets/images/logo.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/troveskin/assets/images/service-1.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/troveskin/assets/images/service-2.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/troveskin/assets/images/step-1.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/troveskin/assets/images/step-2.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/troveskin/assets/images/step-3.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/troveskin/about.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/troveskin/assets/css/styles.min.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/troveskin/assets/css/vendors.min.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/troveskin/assets/icons/apple-store.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/troveskin/assets/icons/google-play.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/troveskin/assets/icons/icon-solve-1.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/troveskin/assets/icons/icon-solve-2.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/troveskin/assets/icons/icon-step-1.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/troveskin/assets/icons/icon-step-2.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/troveskin/assets/icons/icon-step-3.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/troveskin/assets/icons/language-en.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/troveskin/assets/icons/mouse.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/troveskin/assets/images/app-about.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/troveskin/assets/images/app-homepage.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/troveskin/assets/images/dotted-about.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/troveskin/assets/images/dotted-homepage.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/troveskin/assets/images/footer-about.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/troveskin/assets/images/footer-homepage.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/troveskin/assets/images/header-about.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/troveskin/assets/images/header-homepage.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/troveskin/assets/images/logo.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/troveskin/assets/images/service-1.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/troveskin/assets/images/service-2.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/troveskin/assets/images/step-1.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/troveskin/assets/images/step-2.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/troveskin/assets/images/step-3.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/troveskin/assets/js/script.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/troveskin/assets/js/script.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/troveskin/assets/js/vendors.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/troveskin/index.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/troveskin/legal.html" />
+    <list default="true" id="82865952-b499-45f4-9287-a77febe6fcf4" name="Default" comment="TroveSkin new website">
+      <change type="DELETED" beforePath="$PROJECT_DIR$/troveskin/assets/images/app-about.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/troveskin/assets/images/app-homepage.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/troveskin/assets/images/dotted-about.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/troveskin/assets/images/dotted-homepage.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/troveskin/assets/images/footer-about.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/troveskin/assets/images/footer-homepage.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/troveskin/assets/images/header-about.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/troveskin/assets/images/header-homepage.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/troveskin/assets/images/logo.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/troveskin/assets/images/service-1.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/troveskin/assets/images/service-2.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/troveskin/assets/images/step-1.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/troveskin/assets/images/step-2.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/troveskin/assets/images/step-3.png" afterPath="" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/index.html" afterPath="$PROJECT_DIR$/index.html" />
     </list>
     <ignored path="yessika21289.github.io.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -81,8 +40,8 @@
       <file leaf-file-name="index.html" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="320">
-              <caret line="612" column="20" lean-forward="false" selection-start-line="612" selection-start-column="20" selection-end-line="612" selection-end-column="20" />
+            <state relative-caret-position="166">
+              <caret line="590" column="6" lean-forward="true" selection-start-line="590" selection-start-column="6" selection-end-line="590" selection-end-column="6" />
               <folding>
                 <element signature="n#nav#1;n#body#0;n#html#0;n#!!top" expanded="false" />
               </folding>
@@ -229,6 +188,24 @@
               <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
             </PATH_ELEMENT>
           </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="yessika21289.github.io" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="yessika21289.github.io" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="troveskin" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="assets" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+          </PATH>
         </subPane>
       </pane>
       <pane id="Scope" />
@@ -356,7 +333,7 @@
       <workItem from="1498918171374" duration="286000" />
       <workItem from="1500258189312" duration="8865000" />
       <workItem from="1500301945300" duration="151000" />
-      <workItem from="1507739438138" duration="70000" />
+      <workItem from="1507739438138" duration="237000" />
     </task>
     <task id="LOCAL-00001" summary="Add Transifex">
       <created>1487662667823</created>
@@ -491,11 +468,18 @@
       <option name="project" value="LOCAL" />
       <updated>1500274317276</updated>
     </task>
-    <option name="localTasksCounter" value="20" />
+    <task id="LOCAL-00020" summary="TroveSkin new website">
+      <created>1507739551338</created>
+      <option name="number" value="00020" />
+      <option name="presentableId" value="LOCAL-00020" />
+      <option name="project" value="LOCAL" />
+      <updated>1507739551338</updated>
+    </task>
+    <option name="localTasksCounter" value="21" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="60711000" />
+    <option name="totallyTimeSpent" value="60878000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
@@ -561,6 +545,7 @@
     <option name="myLimit" value="2678400000" />
   </component>
   <component name="VcsManagerConfiguration">
+    <option name="CHECK_CODE_SMELLS_BEFORE_PROJECT_COMMIT" value="false" />
     <MESSAGE value="Add Transifex" />
     <MESSAGE value="Added presentation" />
     <MESSAGE value="Added prefix and sufix" />
@@ -575,7 +560,8 @@
     <MESSAGE value="- Add link to FB &amp; instagram icon&#10;- Delete twitter icon&#10;- Fix downloads Icon" />
     <MESSAGE value="Fix image" />
     <MESSAGE value="Add recaptcha" />
-    <option name="LAST_COMMIT_MESSAGE" value="Add recaptcha" />
+    <MESSAGE value="TroveSkin new website" />
+    <option name="LAST_COMMIT_MESSAGE" value="TroveSkin new website" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
@@ -767,8 +753,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="320">
-          <caret line="612" column="20" lean-forward="false" selection-start-line="612" selection-start-column="20" selection-end-line="612" selection-end-column="20" />
+        <state relative-caret-position="166">
+          <caret line="590" column="6" lean-forward="true" selection-start-line="590" selection-start-column="6" selection-end-line="590" selection-end-column="6" />
           <folding>
             <element signature="n#nav#1;n#body#0;n#html#0;n#!!top" expanded="false" />
           </folding>
