@@ -54,7 +54,7 @@
 	<![endif]-->
 	<script type="text/javascript">window.liveSettings = {api_key: "932642ac80e64d488c096a62b9f00f32"}</script>
 	<script type="text/javascript" src="//cdn.transifex.com/live.js"></script>
-	<script src="https://www.google.com/recaptcha/api.js" async defer></script>
+	<script src="https://www.google.com/recaptcha/api.js?onload=onloadCallback&render=explicit" async defer></script>
 	<!-- Start of Smartsupp Live Chat script -->
 	<script type="text/javascript">
 		var _smartsupp = _smartsupp || {};
@@ -72,6 +72,12 @@
 			c.src = '//www.smartsuppchat.com/loader.js?';
 			s.parentNode.insertBefore(c, s);
 		})(document);
+		var onloadCallback = function() {
+			var google_recaptcha = document.getElementById('google-recaptcha');
+			grecaptcha.render(google_recaptcha, {
+				'sitekey' : '6LeyTSkUAAAAAGbTcDuPdjRxO-XFTwyxFW0gSM27'
+			});
+		};
 	</script>
 
 </head>
@@ -557,26 +563,26 @@
 					<div class="row">
 						<div class="col-md-6">
 							<div class="form-group">
-								<label for="exampleInputEmail1">Email address</label>
+								<label for="email">Email address</label>
 								<input type="email" class="form-control"
-								       id="exampleInputEmail1"
+								       id="email"
 								       placeholder="Enter email">
 							</div>
 						</div>
 						<div class="col-md-6">
 							<div class="form-group">
-								<label for="exampleInputPassword1">Password</label>
+								<label for="password">Password</label>
 								<input type="password" class="form-control"
-								       id="exampleInputPassword1"
+								       id="password"
 								       placeholder="Password">
 							</div>
 						</div>
 					</div>
 					<div class="form-group">
-						<label for="exampleInputEmail1">Message</label>
-						<textarea class="form-control" rows="3"></textarea>
+						<label for="message">Message</label>
+						<textarea id="message" class="form-control" rows="3"></textarea>
 					</div>
-					<div class="g-recaptcha" data-sitekey="6LeyTSkUAAAAAGbTcDuPdjRxO-XFTwyxFW0gSM27"></div>
+					<div id="google-recaptcha"></div>
 					<button type="submit" class="btn tf-btn btn-default">Submit</button>
 				</form>
 			</div>
