@@ -3,7 +3,7 @@
   <component name="ChangeListManager">
     <list default="true" id="82865952-b499-45f4-9287-a77febe6fcf4" name="Default" comment="">
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/troveskin/assets/css/styles.min.css" afterPath="$PROJECT_DIR$/troveskin/assets/css/styles.min.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/troveskin/index.html" afterPath="$PROJECT_DIR$/troveskin/index.html" />
     </list>
     <ignored path="yessika21289.github.io.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -39,11 +39,11 @@
       <file leaf-file-name="index.html" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/troveskin/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="73">
-              <caret line="66" column="20" lean-forward="true" selection-start-line="66" selection-start-column="20" selection-end-line="66" selection-end-column="20" />
+            <state relative-caret-position="139">
+              <caret line="72" column="132" lean-forward="false" selection-start-line="72" selection-start-column="132" selection-end-line="72" selection-end-column="132" />
               <folding>
-                <marker date="1507912492000" expanded="false" signature="4723:4728" ph="&amp;" />
-                <marker date="1507912492000" expanded="false" signature="6787:6793" ph="©" />
+                <marker date="1507913812689" expanded="false" signature="4724:4729" ph="&amp;" />
+                <marker date="1507913812689" expanded="false" signature="6788:6794" ph="©" />
               </folding>
             </state>
           </provider>
@@ -120,8 +120,8 @@
         <option value="$PROJECT_DIR$/trove/style.css" />
         <option value="$PROJECT_DIR$/trove/index.html" />
         <option value="$PROJECT_DIR$/index.html" />
-        <option value="$PROJECT_DIR$/troveskin/index.html" />
         <option value="$PROJECT_DIR$/troveskin/assets/css/styles.min.css" />
+        <option value="$PROJECT_DIR$/troveskin/index.html" />
       </list>
     </option>
   </component>
@@ -365,7 +365,7 @@
       <workItem from="1507821626117" duration="815000" />
       <workItem from="1507837897684" duration="14000" />
       <workItem from="1507884623185" duration="615000" />
-      <workItem from="1507910032143" duration="1573000" />
+      <workItem from="1507910032143" duration="1724000" />
     </task>
     <task id="LOCAL-00001" summary="Add Transifex">
       <created>1487662667823</created>
@@ -542,11 +542,18 @@
       <option name="project" value="LOCAL" />
       <updated>1507912336505</updated>
     </task>
-    <option name="localTasksCounter" value="26" />
+    <task id="LOCAL-00026" summary="Revision web">
+      <created>1507913667301</created>
+      <option name="number" value="00026" />
+      <option name="presentableId" value="LOCAL-00026" />
+      <option name="project" value="LOCAL" />
+      <updated>1507913667302</updated>
+    </task>
+    <option name="localTasksCounter" value="27" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="65917000" />
+    <option name="totallyTimeSpent" value="66068000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
@@ -837,11 +844,11 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/troveskin/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="73">
-          <caret line="66" column="20" lean-forward="true" selection-start-line="66" selection-start-column="20" selection-end-line="66" selection-end-column="20" />
+        <state relative-caret-position="139">
+          <caret line="72" column="132" lean-forward="false" selection-start-line="72" selection-start-column="132" selection-end-line="72" selection-end-column="132" />
           <folding>
-            <marker date="1507912492000" expanded="false" signature="4723:4728" ph="&amp;" />
-            <marker date="1507912492000" expanded="false" signature="6787:6793" ph="©" />
+            <marker date="1507913812689" expanded="false" signature="4724:4729" ph="&amp;" />
+            <marker date="1507913812689" expanded="false" signature="6788:6794" ph="©" />
           </folding>
         </state>
       </provider>
