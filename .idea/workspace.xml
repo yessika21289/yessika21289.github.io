@@ -2,14 +2,17 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="82865952-b499-45f4-9287-a77febe6fcf4" name="Default" comment="Revision web">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/troveskin_web/assets/icons/facebook.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/troveskin_web/assets/icons/instagram.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/troveskin_web/assets/images/contact-banner.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/troveskin_web/contact.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/troveskin_web/id/assets/icons/facebook.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/troveskin_web/id/assets/icons/instagram.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/troveskin_web/id/assets/images/contact-banner.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/troveskin_web/id/contact.html" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/troveskin_web/about.html" afterPath="$PROJECT_DIR$/troveskin_web/about.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/troveskin_web/assets/css/styles.min.css" afterPath="$PROJECT_DIR$/troveskin_web/assets/css/styles.min.css" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/troveskin_web/index.html" afterPath="$PROJECT_DIR$/troveskin_web/index.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/troveskin_web/contact.html" afterPath="$PROJECT_DIR$/troveskin_web/contact.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/troveskin_web/id/about.html" afterPath="$PROJECT_DIR$/troveskin_web/id/about.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/troveskin_web/id/assets/css/styles.min.css" afterPath="$PROJECT_DIR$/troveskin_web/id/assets/css/styles.min.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/troveskin_web/id/index.html" afterPath="$PROJECT_DIR$/troveskin_web/id/index.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/troveskin_web/id/legal.html" afterPath="$PROJECT_DIR$/troveskin_web/id/legal.html" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/troveskin_web/legal.html" afterPath="$PROJECT_DIR$/troveskin_web/legal.html" />
     </list>
     <ignored path="yessika21289.github.io.iws" />
@@ -31,35 +34,51 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="index.html" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/troveskin/index.html">
+      <file leaf-file-name="legal.html" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/troveskin_web/legal.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="0">
-              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+            <state relative-caret-position="264">
+              <caret line="45" column="47" lean-forward="true" selection-start-line="45" selection-start-column="47" selection-end-line="45" selection-end-column="47" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="about.html" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/troveskin_web/id/about.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="242">
+              <caret line="41" column="18" lean-forward="false" selection-start-line="41" selection-start-column="18" selection-end-line="41" selection-end-column="85" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="contact.html" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/troveskin_web/id/contact.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="141">
+              <caret line="31" column="22" lean-forward="true" selection-start-line="31" selection-start-column="22" selection-end-line="31" selection-end-column="22" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="legal.html" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/troveskin_web/id/legal.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="286">
+              <caret line="38" column="38" lean-forward="true" selection-start-line="38" selection-start-column="38" selection-end-line="38" selection-end-column="38" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
       <file leaf-file-name="index.html" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/troveskin_web/index.html">
+        <entry file="file://$PROJECT_DIR$/troveskin_web/id/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="242">
-              <caret line="20" column="9" lean-forward="true" selection-start-line="20" selection-start-column="9" selection-end-line="20" selection-end-column="9" />
-              <folding>
-                <element signature="e#3646#3651#0" expanded="true" />
-                <element signature="e#5468#5473#0" expanded="true" />
-                <marker date="1509345056457" expanded="false" signature="7504:7510" ph="©" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="about.html" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/troveskin_web/about.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="220">
-              <caret line="19" column="16" lean-forward="true" selection-start-line="19" selection-start-column="16" selection-end-line="19" selection-end-column="16" />
+            <state relative-caret-position="374">
+              <caret line="38" column="46" lean-forward="false" selection-start-line="38" selection-start-column="46" selection-end-line="38" selection-end-column="46" />
               <folding />
             </state>
           </provider>
@@ -76,7 +95,6 @@
   </component>
   <component name="FindInProjectRecents">
     <findStrings>
-      <find>itunes</find>
       <find>ios.p</find>
       <find>@media</find>
       <find>android</find>
@@ -106,6 +124,7 @@
       <find>main-menu</find>
       <find>anguage-menu</find>
       <find>after</find>
+      <find>facebook.png</find>
     </findStrings>
     <replaceStrings>
       <replace />
@@ -142,7 +161,13 @@
         <option value="$PROJECT_DIR$/troveskin_id/index.html" />
         <option value="$PROJECT_DIR$/troveskin/index.html" />
         <option value="$PROJECT_DIR$/troveskin_web/index.html" />
+        <option value="$PROJECT_DIR$/troveskin_web/id/index.html" />
         <option value="$PROJECT_DIR$/troveskin_web/about.html" />
+        <option value="$PROJECT_DIR$/troveskin_web/legal.html" />
+        <option value="$PROJECT_DIR$/troveskin_web/contact.html" />
+        <option value="$PROJECT_DIR$/troveskin_web/id/legal.html" />
+        <option value="$PROJECT_DIR$/troveskin_web/id/about.html" />
+        <option value="$PROJECT_DIR$/troveskin_web/id/contact.html" />
       </list>
     </option>
   </component>
@@ -222,7 +247,11 @@
               <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="troveskin" />
+              <option name="myItemId" value="troveskin_web" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="id" />
               <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
             </PATH_ELEMENT>
           </PATH>
@@ -241,6 +270,11 @@
     <property name="JavaScriptPreferStrict" value="false" />
     <property name="JavaScriptWeakerCompletionTypeGuess" value="true" />
     <property name="ignore_missing_gitignore" value="true" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\laragon\www\yessika21289.github.io\troveskin_web\id" />
+    </key>
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -370,7 +404,7 @@
       <workItem from="1508482101985" duration="1241000" />
       <workItem from="1508518819410" duration="953000" />
       <workItem from="1508725850356" duration="411000" />
-      <workItem from="1509344656402" duration="404000" />
+      <workItem from="1509344656402" duration="1564000" />
     </task>
     <task id="LOCAL-00001" summary="Add Transifex">
       <created>1487662667823</created>
@@ -568,11 +602,18 @@
       <option name="project" value="LOCAL" />
       <updated>1509344823504</updated>
     </task>
-    <option name="localTasksCounter" value="29" />
+    <task id="LOCAL-00029" summary="Revision web">
+      <created>1509345063637</created>
+      <option name="number" value="00029" />
+      <option name="presentableId" value="LOCAL-00029" />
+      <option name="project" value="LOCAL" />
+      <updated>1509345063637</updated>
+    </task>
+    <option name="localTasksCounter" value="30" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="76579000" />
+    <option name="totallyTimeSpent" value="77739000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
@@ -662,42 +703,6 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/maemyuk/src/App.vue" />
-    <entry file="file://$PROJECT_DIR$/index.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="10152">
-          <caret line="564" column="36" lean-forward="false" selection-start-line="564" selection-start-column="36" selection-end-line="564" selection-end-column="36" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/presentation/index.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/js/main.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="72">
-          <caret line="4" column="2" lean-forward="false" selection-start-line="4" selection-start-column="2" selection-end-line="4" selection-end-column="2" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/language_en.yml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="126">
-          <caret line="7" column="20" lean-forward="false" selection-start-line="7" selection-start-column="20" selection-end-line="7" selection-end-column="20" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/index.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/js/main.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="72">
@@ -890,20 +895,67 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/troveskin_web/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="242">
-          <caret line="20" column="9" lean-forward="true" selection-start-line="20" selection-start-column="9" selection-end-line="20" selection-end-column="9" />
+        <state relative-caret-position="-374">
+          <caret line="76" column="33" lean-forward="true" selection-start-line="76" selection-start-column="33" selection-end-line="76" selection-end-column="33" />
           <folding>
             <element signature="e#3646#3651#0" expanded="true" />
             <element signature="e#5468#5473#0" expanded="true" />
-            <marker date="1509345056457" expanded="false" signature="7504:7510" ph="©" />
           </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/troveskin_web/about.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="220">
-          <caret line="19" column="16" lean-forward="true" selection-start-line="19" selection-start-column="16" selection-end-line="19" selection-end-column="16" />
+        <state relative-caret-position="198">
+          <caret line="45" column="45" lean-forward="false" selection-start-line="45" selection-start-column="45" selection-end-line="45" selection-end-column="45" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/troveskin_web/contact.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="330">
+          <caret line="45" column="47" lean-forward="false" selection-start-line="45" selection-start-column="47" selection-end-line="45" selection-end-column="47" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/troveskin_web/legal.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="264">
+          <caret line="45" column="47" lean-forward="true" selection-start-line="45" selection-start-column="47" selection-end-line="45" selection-end-column="47" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/troveskin_web/id/legal.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="286">
+          <caret line="38" column="38" lean-forward="true" selection-start-line="38" selection-start-column="38" selection-end-line="38" selection-end-column="38" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/troveskin_web/id/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="374">
+          <caret line="38" column="46" lean-forward="false" selection-start-line="38" selection-start-column="46" selection-end-line="38" selection-end-column="46" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/troveskin_web/id/about.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="242">
+          <caret line="41" column="18" lean-forward="false" selection-start-line="41" selection-start-column="18" selection-end-line="41" selection-end-column="85" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/troveskin_web/id/contact.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="141">
+          <caret line="31" column="22" lean-forward="true" selection-start-line="31" selection-start-column="22" selection-end-line="31" selection-end-column="22" />
           <folding />
         </state>
       </provider>
