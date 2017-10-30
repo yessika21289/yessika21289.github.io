@@ -1,19 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="82865952-b499-45f4-9287-a77febe6fcf4" name="Default" comment="Revision web">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/troveskin_web/id/assets/icons/facebook.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/troveskin_web/id/assets/icons/instagram.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/troveskin_web/id/assets/images/contact-banner.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/troveskin_web/id/contact.html" />
+    <list default="true" id="82865952-b499-45f4-9287-a77febe6fcf4" name="Default" comment="">
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/troveskin_web/about.html" afterPath="$PROJECT_DIR$/troveskin_web/about.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/troveskin_web/contact.html" afterPath="$PROJECT_DIR$/troveskin_web/contact.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/troveskin_web/id/about.html" afterPath="$PROJECT_DIR$/troveskin_web/id/about.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/troveskin_web/id/assets/css/styles.min.css" afterPath="$PROJECT_DIR$/troveskin_web/id/assets/css/styles.min.css" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/troveskin_web/id/index.html" afterPath="$PROJECT_DIR$/troveskin_web/id/index.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/troveskin_web/id/legal.html" afterPath="$PROJECT_DIR$/troveskin_web/id/legal.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/troveskin_web/legal.html" afterPath="$PROJECT_DIR$/troveskin_web/legal.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/troveskin_web/id/contact.html" afterPath="$PROJECT_DIR$/troveskin_web/id/contact.html" />
     </list>
     <ignored path="yessika21289.github.io.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -57,8 +47,8 @@
       <file leaf-file-name="contact.html" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/troveskin_web/id/contact.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="141">
-              <caret line="31" column="22" lean-forward="true" selection-start-line="31" selection-start-column="22" selection-end-line="31" selection-end-column="22" />
+            <state relative-caret-position="185">
+              <caret line="66" column="18" lean-forward="true" selection-start-line="66" selection-start-column="18" selection-end-line="66" selection-end-column="18" />
               <folding />
             </state>
           </provider>
@@ -404,7 +394,7 @@
       <workItem from="1508482101985" duration="1241000" />
       <workItem from="1508518819410" duration="953000" />
       <workItem from="1508725850356" duration="411000" />
-      <workItem from="1509344656402" duration="1564000" />
+      <workItem from="1509344656402" duration="1773000" />
     </task>
     <task id="LOCAL-00001" summary="Add Transifex">
       <created>1487662667823</created>
@@ -609,11 +599,18 @@
       <option name="project" value="LOCAL" />
       <updated>1509345063637</updated>
     </task>
-    <option name="localTasksCounter" value="30" />
+    <task id="LOCAL-00030" summary="Final">
+      <created>1509346226631</created>
+      <option name="number" value="00030" />
+      <option name="presentableId" value="LOCAL-00030" />
+      <option name="project" value="LOCAL" />
+      <updated>1509346226631</updated>
+    </task>
+    <option name="localTasksCounter" value="31" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="77739000" />
+    <option name="totallyTimeSpent" value="77948000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
@@ -696,7 +693,8 @@
     <MESSAGE value="Add recaptcha" />
     <MESSAGE value="TroveSkin new website" />
     <MESSAGE value="Revision web" />
-    <option name="LAST_COMMIT_MESSAGE" value="Revision web" />
+    <MESSAGE value="Final" />
+    <option name="LAST_COMMIT_MESSAGE" value="Final" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
@@ -954,8 +952,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/troveskin_web/id/contact.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="141">
-          <caret line="31" column="22" lean-forward="true" selection-start-line="31" selection-start-column="22" selection-end-line="31" selection-end-column="22" />
+        <state relative-caret-position="185">
+          <caret line="66" column="18" lean-forward="true" selection-start-line="66" selection-start-column="18" selection-end-line="66" selection-end-column="18" />
           <folding />
         </state>
       </provider>
