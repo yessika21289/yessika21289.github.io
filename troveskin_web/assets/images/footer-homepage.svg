@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="1280px" height="812px" viewBox="0 0 1280 812" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 47 (45396) - http://www.bohemiancoding.com/sketch -->
+    <title>BG-Footer</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <linearGradient x1="50%" y1="98.1704401%" x2="50%" y2="-1.11022302e-14%" id="linearGradient-1">
+            <stop stop-color="#A863D0" offset="0%"></stop>
+            <stop stop-color="#707FF2" offset="100%"></stop>
+        </linearGradient>
+        <rect id="path-2" x="0" y="0" width="1280" height="812"></rect>
+    </defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="troveskin---web@2x" transform="translate(0.000000, -3548.000000)">
+            <g id="BG-Footer" transform="translate(0.000000, 3548.000000)">
+                <mask id="mask-3" fill="white">
+                    <use xlink:href="#path-2"></use>
+                </mask>
+                <use id="Mask" fill="url(#linearGradient-1)" xlink:href="#path-2"></use>
+                <path d="M0,0 C499.599581,488.812759 974.072918,733.219138 1423.42001,733.219138 C1872.76711,733.219138 1824.92261,488.812759 1279.88652,0 L1279.88652,812 L0,812 L0,0 Z" id="Rectangle-6-Copy-2" fill-opacity="0.400000006" fill="url(#linearGradient-1)" style="mix-blend-mode: multiply;" mask="url(#mask-3)" transform="translate(864.000000, 406.000000) scale(1, -1) translate(-864.000000, -406.000000) "></path>
+                <path d="M-0.360230913,-1 C-23.0755375,437.09717 190.211206,656.145756 639.5,656.145756 C1088.78879,656.145756 1302.07554,437.09717 1279.36023,-1 L1279.36023,811 L-0.360230913,811 L-0.360230913,-1 Z" id="Rectangle-6-Copy" fill-opacity="0.400000006" fill="url(#linearGradient-1)" style="mix-blend-mode: multiply;" mask="url(#mask-3)"></path>
+            </g>
+        </g>
+    </g>
+</svg>

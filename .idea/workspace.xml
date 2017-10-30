@@ -1,9 +1,142 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="82865952-b499-45f4-9287-a77febe6fcf4" name="Default" comment="">
+    <list default="true" id="82865952-b499-45f4-9287-a77febe6fcf4" name="Default" comment="Revision web">
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/troveskin/assets/icons/facebook.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/troveskin/assets/icons/instagram.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/troveskin/assets/images/contact-banner.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/troveskin_id/assets/icons/apple-store.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/troveskin_id/assets/icons/google-play.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/troveskin_id/assets/icons/icon-solve-1.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/troveskin_id/assets/icons/icon-solve-2.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/troveskin_id/assets/icons/icon-step-1.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/troveskin_id/assets/icons/icon-step-2.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/troveskin_id/assets/icons/icon-step-3.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/troveskin_id/assets/icons/language-en.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/troveskin_id/assets/icons/mouse.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/troveskin_web/assets/icons/apple-store.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/troveskin_web/assets/icons/google-play.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/troveskin_web/assets/icons/icon-solve-1.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/troveskin_web/assets/icons/icon-solve-2.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/troveskin_web/assets/icons/icon-step-1.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/troveskin_web/assets/icons/icon-step-2.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/troveskin_web/assets/icons/icon-step-3.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/troveskin_web/assets/icons/language-en.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/troveskin_web/assets/icons/mouse.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/troveskin_web/id/assets/icons/apple-store.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/troveskin_web/id/assets/icons/google-play.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/troveskin_web/id/assets/icons/icon-solve-1.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/troveskin_web/id/assets/icons/icon-solve-2.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/troveskin_web/id/assets/icons/icon-step-1.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/troveskin_web/id/assets/icons/icon-step-2.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/troveskin_web/id/assets/icons/icon-step-3.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/troveskin_web/id/assets/icons/language-en.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/troveskin_web/id/assets/icons/mouse.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/troveskin/assets/icons/language-id.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/troveskin/contact.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/troveskin_id/about.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/troveskin_id/assets/css/styles.min.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/troveskin_id/assets/css/vendors.min.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/troveskin_id/assets/icons/apple-store.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/troveskin_id/assets/icons/google-play.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/troveskin_id/assets/icons/icon-solve-1.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/troveskin_id/assets/icons/icon-solve-2.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/troveskin_id/assets/icons/icon-step-1.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/troveskin_id/assets/icons/icon-step-2.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/troveskin_id/assets/icons/icon-step-3.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/troveskin_id/assets/icons/language-en.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/troveskin_id/assets/icons/language-id.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/troveskin_id/assets/icons/mouse.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/troveskin_id/assets/images/app-about.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/troveskin_id/assets/images/app-homepage.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/troveskin_id/assets/images/dotted-about.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/troveskin_id/assets/images/dotted-homepage.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/troveskin_id/assets/images/footer-about.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/troveskin_id/assets/images/footer-homepage.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/troveskin_id/assets/images/header-about.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/troveskin_id/assets/images/header-homepage.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/troveskin_id/assets/images/logo.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/troveskin_id/assets/images/service-1.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/troveskin_id/assets/images/service-2.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/troveskin_id/assets/images/step-1.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/troveskin_id/assets/images/step-2.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/troveskin_id/assets/images/step-3.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/troveskin_id/assets/js/script.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/troveskin_id/assets/js/script.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/troveskin_id/assets/js/vendors.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/troveskin_id/index.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/troveskin_id/legal.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/troveskin_web/about.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/troveskin_web/assets/css/styles.min.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/troveskin_web/assets/css/vendors.min.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/troveskin_web/assets/icons/apple-store.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/troveskin_web/assets/icons/google-play.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/troveskin_web/assets/icons/icon-solve-1.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/troveskin_web/assets/icons/icon-solve-2.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/troveskin_web/assets/icons/icon-step-1.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/troveskin_web/assets/icons/icon-step-2.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/troveskin_web/assets/icons/icon-step-3.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/troveskin_web/assets/icons/language-en.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/troveskin_web/assets/icons/language-id.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/troveskin_web/assets/icons/mouse.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/troveskin_web/assets/images/app-about.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/troveskin_web/assets/images/app-homepage.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/troveskin_web/assets/images/dotted-about.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/troveskin_web/assets/images/dotted-homepage.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/troveskin_web/assets/images/footer-about.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/troveskin_web/assets/images/footer-homepage.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/troveskin_web/assets/images/header-about.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/troveskin_web/assets/images/header-homepage.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/troveskin_web/assets/images/logo.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/troveskin_web/assets/images/service-1.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/troveskin_web/assets/images/service-2.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/troveskin_web/assets/images/step-1.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/troveskin_web/assets/images/step-2.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/troveskin_web/assets/images/step-3.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/troveskin_web/assets/js/script.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/troveskin_web/assets/js/script.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/troveskin_web/assets/js/vendors.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/troveskin_web/id/about.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/troveskin_web/id/assets/css/styles.min.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/troveskin_web/id/assets/css/vendors.min.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/troveskin_web/id/assets/icons/apple-store.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/troveskin_web/id/assets/icons/google-play.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/troveskin_web/id/assets/icons/icon-solve-1.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/troveskin_web/id/assets/icons/icon-solve-2.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/troveskin_web/id/assets/icons/icon-step-1.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/troveskin_web/id/assets/icons/icon-step-2.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/troveskin_web/id/assets/icons/icon-step-3.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/troveskin_web/id/assets/icons/language-en.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/troveskin_web/id/assets/icons/language-id.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/troveskin_web/id/assets/icons/mouse.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/troveskin_web/id/assets/images/app-about.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/troveskin_web/id/assets/images/app-homepage.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/troveskin_web/id/assets/images/dotted-about.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/troveskin_web/id/assets/images/dotted-homepage.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/troveskin_web/id/assets/images/footer-about.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/troveskin_web/id/assets/images/footer-homepage.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/troveskin_web/id/assets/images/header-about.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/troveskin_web/id/assets/images/header-homepage.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/troveskin_web/id/assets/images/logo.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/troveskin_web/id/assets/images/service-1.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/troveskin_web/id/assets/images/service-2.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/troveskin_web/id/assets/images/step-1.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/troveskin_web/id/assets/images/step-2.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/troveskin_web/id/assets/images/step-3.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/troveskin_web/id/assets/js/script.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/troveskin_web/id/assets/js/script.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/troveskin_web/id/assets/js/vendors.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/troveskin_web/id/index.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/troveskin_web/id/legal.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/troveskin_web/index.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/troveskin_web/legal.html" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/troveskin/about.html" afterPath="$PROJECT_DIR$/troveskin/about.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/troveskin/assets/css/styles.min.css" afterPath="$PROJECT_DIR$/troveskin/assets/css/styles.min.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/troveskin/assets/js/script.js" afterPath="$PROJECT_DIR$/troveskin/assets/js/script.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/troveskin/assets/js/script.min.js" afterPath="$PROJECT_DIR$/troveskin/assets/js/script.min.js" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/troveskin/index.html" afterPath="$PROJECT_DIR$/troveskin/index.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/troveskin/legal.html" afterPath="$PROJECT_DIR$/troveskin/legal.html" />
     </list>
     <ignored path="yessika21289.github.io.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -25,26 +158,21 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file leaf-file-name="index.html" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/index.html">
+        <entry file="file://$PROJECT_DIR$/troveskin/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="12980">
-              <caret line="590" column="6" lean-forward="false" selection-start-line="590" selection-start-column="6" selection-end-line="590" selection-end-column="6" />
-              <folding>
-                <element signature="n#nav#1;n#body#0;n#html#0;n#!!top" expanded="false" />
-              </folding>
+            <state relative-caret-position="0">
+              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+              <folding />
             </state>
           </provider>
         </entry>
       </file>
       <file leaf-file-name="index.html" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/troveskin/index.html">
+        <entry file="file://$PROJECT_DIR$/troveskin_web/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="139">
-              <caret line="72" column="132" lean-forward="false" selection-start-line="72" selection-start-column="132" selection-end-line="72" selection-end-column="132" />
-              <folding>
-                <marker date="1507913812689" expanded="false" signature="4724:4729" ph="&amp;" />
-                <marker date="1507913812689" expanded="false" signature="6788:6794" ph="©" />
-              </folding>
+            <state relative-caret-position="66">
+              <caret line="3" column="11" lean-forward="true" selection-start-line="3" selection-start-column="11" selection-end-line="3" selection-end-column="11" />
+              <folding />
             </state>
           </provider>
         </entry>
@@ -60,19 +188,6 @@
   </component>
   <component name="FindInProjectRecents">
     <findStrings>
-      <find>340fb_2</find>
-      <find>#ups</find>
-      <find>tro</find>
-      <find>4c</find>
-      <find>340</find>
-      <find>2</find>
-      <find>iphone2</find>
-      <find>g2</find>
-      <find>front1</find>
-      <find>front2</find>
-      <find>id=&quot;up</find>
-      <find>ups</find>
-      <find>itun</find>
       <find>itunes</find>
       <find>ios.p</find>
       <find>@media</find>
@@ -89,6 +204,20 @@
       <find>api.</find>
       <find>app-about</find>
       <find>based on</find>
+      <find>analisa kulit</find>
+      <find>kulit</find>
+      <find>analisa wajah</find>
+      <find>troveskin mer</find>
+      <find>apakah</find>
+      <find>hak cip</find>
+      <find>.</find>
+      <find>language-option</find>
+      <find>language-menu</find>
+      <find>language-men</find>
+      <find>#main-menu</find>
+      <find>main-menu</find>
+      <find>anguage-menu</find>
+      <find>after</find>
     </findStrings>
     <replaceStrings>
       <replace />
@@ -121,6 +250,8 @@
         <option value="$PROJECT_DIR$/trove/index.html" />
         <option value="$PROJECT_DIR$/index.html" />
         <option value="$PROJECT_DIR$/troveskin/assets/css/styles.min.css" />
+        <option value="$PROJECT_DIR$/troveskin_id/about.html" />
+        <option value="$PROJECT_DIR$/troveskin_id/index.html" />
         <option value="$PROJECT_DIR$/troveskin/index.html" />
       </list>
     </option>
@@ -165,8 +296,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
-      <pane id="Scratches" />
       <pane id="ProjectPane">
         <subPane>
           <PATH>
@@ -189,7 +318,7 @@
               <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="troveskin" />
+              <option name="myItemId" value="troveskin_web" />
               <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
             </PATH_ELEMENT>
           </PATH>
@@ -204,37 +333,13 @@
             </PATH_ELEMENT>
             <PATH_ELEMENT>
               <option name="myItemId" value="troveskin" />
-              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="assets" />
-              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="yessika21289.github.io" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="yessika21289.github.io" />
-              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="troveskin" />
-              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="assets" />
-              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="css" />
               <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
             </PATH_ELEMENT>
           </PATH>
         </subPane>
       </pane>
+      <pane id="Scratches" />
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -365,7 +470,17 @@
       <workItem from="1507821626117" duration="815000" />
       <workItem from="1507837897684" duration="14000" />
       <workItem from="1507884623185" duration="615000" />
-      <workItem from="1507910032143" duration="1724000" />
+      <workItem from="1507910032143" duration="2333000" />
+      <workItem from="1508115822856" duration="610000" />
+      <workItem from="1508118627920" duration="607000" />
+      <workItem from="1508334725153" duration="3993000" />
+      <workItem from="1508351633938" duration="475000" />
+      <workItem from="1508377414140" duration="605000" />
+      <workItem from="1508468084558" duration="603000" />
+      <workItem from="1508482101985" duration="1241000" />
+      <workItem from="1508518819410" duration="953000" />
+      <workItem from="1508725850356" duration="411000" />
+      <workItem from="1509344656402" duration="162000" />
     </task>
     <task id="LOCAL-00001" summary="Add Transifex">
       <created>1487662667823</created>
@@ -549,26 +664,33 @@
       <option name="project" value="LOCAL" />
       <updated>1507913667302</updated>
     </task>
-    <option name="localTasksCounter" value="27" />
+    <task id="LOCAL-00027" summary="Revision web">
+      <created>1507913816847</created>
+      <option name="number" value="00027" />
+      <option name="presentableId" value="LOCAL-00027" />
+      <option name="project" value="LOCAL" />
+      <updated>1507913816847</updated>
+    </task>
+    <option name="localTasksCounter" value="28" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="66068000" />
+    <option name="totallyTimeSpent" value="76337000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.15885022" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.18154311" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.5008183" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.50980395" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
@@ -643,11 +765,6 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/maemyuk/package.json" />
-    <entry file="file://$PROJECT_DIR$/maemyuk/src/router/index.js" />
-    <entry file="file://$PROJECT_DIR$/maemyuk/src/App.vue" />
-    <entry file="file://$PROJECT_DIR$/maemyuk/src/components/Home.vue" />
-    <entry file="file://$PROJECT_DIR$/maemyuk/src/main.js" />
     <entry file="file://$PROJECT_DIR$/maemyuk/package.json" />
     <entry file="file://$PROJECT_DIR$/maemyuk/src/App.vue" />
     <entry file="file://$PROJECT_DIR$/index.html">
@@ -772,13 +889,13 @@
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/maemyuk/static/js/app.6e44db1ba6002eb7a842.js.map">
+      <provider editor-type-id="sourcemapFileViewerProvider">
+        <state />
+      </provider>
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="193">
           <caret line="0" column="27223" lean-forward="false" selection-start-line="0" selection-start-column="27223" selection-end-line="0" selection-end-column="27224" />
         </state>
-      </provider>
-      <provider editor-type-id="sourcemapFileViewerProvider">
-        <state />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/maemyuk/static/js/app.6e44db1ba6002eb7a842.js">
@@ -828,28 +945,58 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="12980">
           <caret line="590" column="6" lean-forward="false" selection-start-line="590" selection-start-column="6" selection-end-line="590" selection-end-column="6" />
-          <folding>
-            <element signature="n#nav#1;n#body#0;n#html#0;n#!!top" expanded="false" />
-          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/troveskin_id/legal.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/troveskin/assets/js/script.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1716">
+          <caret line="78" column="23" lean-forward="false" selection-start-line="78" selection-start-column="23" selection-end-line="78" selection-end-column="23" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/troveskin/assets/css/styles.min.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="88">
-          <caret line="0" column="691" lean-forward="true" selection-start-line="0" selection-start-column="691" selection-end-line="0" selection-end-column="691" />
+        <state relative-caret-position="22">
+          <caret line="0" column="22275" lean-forward="false" selection-start-line="0" selection-start-column="22270" selection-end-line="0" selection-end-column="22275" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/troveskin_id/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="330">
+          <caret line="36" column="51" lean-forward="false" selection-start-line="36" selection-start-column="51" selection-end-line="36" selection-end-column="51" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/troveskin_id/about.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="515">
+          <caret line="32" column="79" lean-forward="false" selection-start-line="32" selection-start-column="79" selection-end-line="32" selection-end-column="79" />
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/troveskin/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="139">
-          <caret line="72" column="132" lean-forward="false" selection-start-line="72" selection-start-column="132" selection-end-line="72" selection-end-column="132" />
-          <folding>
-            <marker date="1507913812689" expanded="false" signature="4724:4729" ph="&amp;" />
-            <marker date="1507913812689" expanded="false" signature="6788:6794" ph="©" />
-          </folding>
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/troveskin_web/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="66">
+          <caret line="3" column="11" lean-forward="true" selection-start-line="3" selection-start-column="11" selection-end-line="3" selection-end-column="11" />
+          <folding />
         </state>
       </provider>
     </entry>

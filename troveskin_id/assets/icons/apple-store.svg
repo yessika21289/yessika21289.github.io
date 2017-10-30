@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="128px" height="39px" viewBox="0 0 128 39" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 47 (45396) - http://www.bohemiancoding.com/sketch -->
+    <title>Apple Store</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <rect id="path-1" x="0" y="0" width="127.8" height="38.4" rx="4"></rect>
+    </defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="troveskin---web@2x" transform="translate(-521.000000, -411.000000)">
+            <g id="Group-5" transform="translate(521.000000, 257.000000)">
+                <g id="Apple-Store" transform="translate(0.000000, 154.000000)">
+                    <g id="Group-2">
+                        <mask id="mask-2" fill="white">
+                            <use xlink:href="#path-1"></use>
+                        </mask>
+                        <use id="Mask" fill="#000000" xlink:href="#path-1"></use>
+                        <text id="Download-on-the" mask="url(#mask-2)" font-family="Raleway-Regular, Raleway" font-size="9" font-weight="normal" letter-spacing="0.720000029" fill="#FFFFFF">
+                            <tspan x="40.8" y="13.8">Download on the</tspan>
+                        </text>
+                    </g>
+                    <text id="App-Store" font-family="Raleway-Medium, Raleway" font-size="17.4" font-weight="400" fill="#FFFFFF">
+                        <tspan x="40.8" y="30.8">App Store</tspan>
+                    </text>
+                    <path d="M28.8955333,28.6227543 C27.84268,30.1555886 26.7536,31.6789943 25.0341,31.7109257 C23.3418333,31.7428571 22.79932,30.7130057 20.8682867,30.7130057 C18.9352267,30.7130057 18.33052,31.6789943 16.732734,31.7428571 C15.0727293,31.8047086 13.8104833,30.0873257 12.7489533,28.5614057 C10.5802807,25.4414286 8.925064,19.7396571 11.1511547,15.8917691 C12.2535093,13.980824 14.2288,12.7717543 16.3693273,12.7398354 C17.99954,12.7099657 19.5395533,13.83404 20.53528,13.83404 C21.5325267,13.83404 23.4017467,12.4844594 25.3668533,12.6824091 C26.1894267,12.7162389 28.4980533,13.0123966 29.9806867,15.1722937 C29.86352,15.2489669 27.2250533,16.7772 27.2572267,19.96104 C27.2895267,23.7642743 30.6047733,25.0284571 30.64328,25.04568 C30.61326,25.1350629 30.1133067,26.8504343 28.8955333,28.6227543 Z M21.6759133,8.50448343 C22.5860133,7.44273829 24.1237467,6.65301371 25.39282,6.59994971 C25.5549533,8.07476686 24.9589867,9.55162057 24.07878,10.6158171 C23.1968,11.6781029 21.7530533,12.5056046 20.33616,12.3951143 C20.1436267,10.952216 20.8577733,9.44739086 21.6759133,8.50448343 Z" id="logo" fill="#FFFFFF" fill-rule="nonzero"></path>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>
